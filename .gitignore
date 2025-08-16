@@ -1,0 +1,5 @@
+# Ignore virtual environment
+yoga_env/
+venv/
+__pycache__/
+*.pyc
